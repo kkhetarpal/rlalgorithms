@@ -1,4 +1,4 @@
-# rlalgorithms
+# RLalgorithms
 hands on reinforcement learning
 
 ## Tabular Q learning - Frozen Lake
